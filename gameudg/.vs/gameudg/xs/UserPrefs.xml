@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{29AF0664-239A-DB96-7915-541BBC4ABDEC}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="10" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gameudg">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bd3de7ed-df5a-4f47-9902-8588b705b671" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
