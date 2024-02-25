@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{29AF0664-239A-DB96-7915-541BBC4ABDEC}|">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a649799-94ad-44e8-a524-2f1bba85aa7f" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CollisionManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d7836d8-12b0-4608-99b2-d715e7113453" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/explosion.cs">
     <Files>
       <File FileName="Assets/NewBehaviourScript.cs" />
       <File FileName="Assets/scripts.cs" />
-      <File FileName="Assets/scripts/drag.cs" Line="34" Column="6" />
-      <File FileName="Assets/enlaces.cs" Line="1" Column="1" />
-      <File FileName="Assets/CollisionManager.cs" Line="8" Column="47" />
+      <File FileName="Assets/scripts/drag.cs" Line="1" Column="1" />
+      <File FileName="Assets/enlaces.cs" />
+      <File FileName="Assets/CollisionManager.cs" />
+      <File FileName="Assets/scripts/movroket.cs" Line="14" Column="20" />
+      <File FileName="Assets/scripts/explosion.cs" Line="24" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,8 +24,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

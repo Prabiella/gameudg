@@ -359,6 +359,8 @@
 "Assets/NewBehaviourScript.cs"
 "Assets/scripts.cs"
 "Assets/scripts/drag.cs"
+"Assets/scripts/explosion.cs"
+"Assets/scripts/movroket.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
